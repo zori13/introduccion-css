@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
+.box p{
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}

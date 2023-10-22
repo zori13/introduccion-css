@@ -1,0 +1,11 @@
+.background-image {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom:30px;
+    background-image: url('https://www.istockphoto.com/es/foto/renderizado-3d-fondo-colorido-con-forma-abstracta-que-brilla-en-el-espectro-gm1397018356-451584875');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}

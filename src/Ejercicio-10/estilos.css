@@ -1,0 +1,19 @@
+.box {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+.box p:first-child{
+    font-size: 3em;
+}
+.box p:nth-child(2) {
+    font-size: 5rem;
+}
+.box p:nth-child(3) {
+    font-size: 9vw;
+}
+.box p:nth-child(4) {
+    font-size: 20vh;
+}
